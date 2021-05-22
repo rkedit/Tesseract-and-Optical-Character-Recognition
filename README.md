@@ -1,0 +1,1 @@
+# Tesseract-and-Optical-Character-Recognition
